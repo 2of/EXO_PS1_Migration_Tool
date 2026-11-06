@@ -1,4 +1,6 @@
-# EXO PS1 Migration Tool
+# Cross Tenant M365 DL/MESG/Group Migration Tool
+
+## invigilated resources only.
 
 A PowerShell wrapper for migrating Distribution Lists (DLs), mail-enabled groups, members, and owners between Microsoft Exchange Online / Microsoft 365 tenants.
 
